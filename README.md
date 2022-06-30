@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cazavi" alt="cazavi" /></a> </p>
 
-- 🔭 I’m currently working on [Social Network](https://github.com/cazavi/SCL020-social-network)
+- 🔭 I’m currently working on [MD LINKS](https://github.com/cazavi/SCL020-md-links)
 
 - 🌱 I’m currently learning **Firebase, mocks, callbacks and promises**
 
