@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [MD LINKS](https://github.com/cazavi/SCL020-md-links)
 
-- 🌱 I’m currently learning **Firebase, mocks, callbacks and promises**
+- 🌱 I’m currently learning **Callbacks, promises and npm**
 
 - 👨‍💻 All of my projects are available at [https://github.com/cazavi?tab=repositories](https://github.com/cazavi?tab=repositories)
 
