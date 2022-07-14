@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Carolina</h1>
-<h3 align="center">Front-end Dev./Book, knowledge and dog Lover.</h3>
+<h3 align="center">Front-end Dev./Admin. Engineer/Book, knowledge and dog Lover.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cazavi" alt="cazavi" /></a> </p>
 
-- 🔭 I’m currently working on [MD LINKS](https://github.com/cazavi/SCL020-md-links)
+- 🔭 I’m currently working on [BURGUER QUEEN](https://github.com/cazavi/SCL020-burger-queen)
 
-- 🌱 I’m currently learning **Callbacks, promises and npm**
+- 🌱 I’m currently learning **React, Firebase, Promises, Tailwind & Materialize.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/cazavi?tab=repositories](https://github.com/cazavi?tab=repositories)
 
