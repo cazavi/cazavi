@@ -5,7 +5,9 @@
 
 - 🔭 I’m currently working on [BURGUER QUEEN](https://github.com/cazavi/SCL020-burger-queen)
 
-- 🌱 I’m currently learning **React, Firebase, Promises, Tailwind & Materialize.**
+- 💻 My last project is [BUYBOX](https://github.com/cazavi/Talent-Fest-Latam/tree/master)
+
+- 🌱 I’m currently learning **React and Tailwind.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/cazavi?tab=repositories](https://github.com/cazavi?tab=repositories)
 
