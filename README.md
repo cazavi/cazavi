@@ -7,7 +7,7 @@
 
 - 💻 My last project is [BUYBOX](https://github.com/cazavi/Talent-Fest-Latam/tree/master)
 
-- 🌱 I’m currently learning **React and Tailwind.**
+- 🌱 I’m currently learning **React and Bootstrap.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/cazavi?tab=repositories](https://github.com/cazavi?tab=repositories)
 
