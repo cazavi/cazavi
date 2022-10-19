@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cazavi" alt="cazavi" /></a> </p>
 
-- 🔭 I’m currently working on [BURGUER QUEEN](https://github.com/cazavi/SCL020-burger-queen)
+- 🔭 I’m currently working on [Journal App](https://github.com/cazavi/journal-app)
 
-- 💻 My last project is [BUYBOX](https://github.com/cazavi/Talent-Fest-Latam/tree/master)
+- 💻 My last project is [Heroes Searcher App](https://github.com/cazavi/heroes-app)
 
-- 🌱 I’m currently learning **React and Bootstrap.**
+- 🌱 I’m currently learning **React, Bootstrap and Material UI.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/cazavi?tab=repositories](https://github.com/cazavi?tab=repositories)
 
