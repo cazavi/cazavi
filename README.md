@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carolina</h1>
+
+![](https://github.com/cazavi/banner/blob/main/Portada%20de%20LinkedIn%20ilustraci%C3%B3n%20azul.png?raw=true)
+
 <h3 align="center">Front-end Dev./Admin. Engineer/Book, knowledge and dog Lover.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cazavi" alt="cazavi" /></a> </p>
