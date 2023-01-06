@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Antartida Bank App](https://github.com/EquipoPenguin/antartidabank)
 
-- 💻 My last project is [Journa App](https://github.com/cazavi/journal-app)
+- 💻 My last project is [Journal App](https://github.com/cazavi/journal-app)
 
 - 🌱 I’m currently learning **Java and API foundations.**
 
