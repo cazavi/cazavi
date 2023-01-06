@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cazavi" alt="cazavi" /></a> </p>
 
-- 🔭 I’m currently working on [Journal App](https://github.com/cazavi/journal-app)
+- 🔭 I’m currently working on [Antartida Bank App](https://github.com/EquipoPenguin/antartidabank)
 
-- 💻 My last project is [Heroes Searcher App](https://github.com/cazavi/heroes-app)
+- 💻 My last project is [Journa App](https://github.com/cazavi/journal-app)
 
-- 🌱 I’m currently learning **React, Bootstrap and Material UI.**
+- 🌱 I’m currently learning **Java and API foundations.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/cazavi?tab=repositories](https://github.com/cazavi?tab=repositories)
 
